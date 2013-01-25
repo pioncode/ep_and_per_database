@@ -506,21 +506,42 @@ while (@result=$sth->fetchrow()){
   }
   
   #check if commentary and whether to use plural
+ # 
+ # if ($ptype==2 && $commentaries==0){
+ #   unless ($volume==26 && $issue==1 && $journal==B) {$commentaries=1;}  # make sure we only do this once per issue
+ #   # count how many editorials in this issue (-1)
+ #  $sth2=$dbh->prepare("select count(*) from papers where journal='$journal' and volume=$volume and issue=$issue and ptype=2");
+ #   $sth2->execute();
+ #   ($more_than_one_comm)=$sth2->fetchrow(); 
+ #   $more_than_one_comm--;
+ #   if ($volume==26 && $issue==1 && $journal==B) {
+ #     print "<p><b>Commentary</b><br>\n";}
+ #   elsif ($more_than_one_comm){ 
+ #     print "<p><b>Commentaries</b><br>\n";}
+ #   else {
+ #     print "<p><b>Commentary</b><br>\n";}   
+ # }
   
-  if ($ptype==2 && $commentaries==0){
+    if ($ptype==2 && $commentaryBlockFlag==0){
     unless ($volume==26 && $issue==1 && $journal==B) {$commentaries=1;}  # make sure we only do this once per issue
     # count how many editorials in this issue (-1)
-    $sth2=$dbh->prepare("select count(*) from papers where journal='$journal' and volume=$volume and issue=$issue and ptype=2");
+    #See if there is a commentry paper in front of this. Use startpage=endpage of current paper +1 and paper type 2
+    $nextStartPage=$end_page+1;
+    $sth2=$dbh->prepare("SELECT count(*) FROM papers WHERE journal='$journal' AND volume=$volume AND issue=$issue AND ptype=2 AND start_page=$nextStartPage");
     $sth2->execute();
-    ($more_than_one_comm)=$sth2->fetchrow(); 
-    $more_than_one_comm--;
+    ($more_than_one_comm)=$sth2->fetchrow();
+    #print "Coms: $more_than_one_comm  <br> $nextStartPage<br>";
     if ($volume==26 && $issue==1 && $journal==B) {
       print "<p><b>Commentary</b><br>\n";}
     elsif ($more_than_one_comm){ 
-      print "<p><b>Commentaries</b><br>\n";}
+      print "<p><b>Commentaries</b><br>\n";
+      $commentaryBlockFlag=1; #We are in a block of commentary papers
+      }
     else {
       print "<p><b>Commentary</b><br>\n";}   
-  }  
+  }
+    #If we have been in a block of commentary papers, then clear flag on this ordianry paper
+    else{$commentaryBlockFlag=0;} 
 
   #if($ptype==10&&$lnl==0){$lnl=1}
 
