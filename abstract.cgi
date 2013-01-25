@@ -228,7 +228,8 @@ else{
     $banner='<img src="Images/h_ban2.gif" alt="High Temperatures - High Pressures" border=0 class="logo">' if $journal=~/(H)/;
     
     $j_name=$jname{$journal};
-    $doi="doi:10.1068/$paperid" unless ($ptype==11 or $journal eq 'V');
+
+    if ($ptype==0 || $ptype==1 || $ptype==2 || $ptype==3 || $ptype==5 || $ptype==9 or $ptype==11 or $journal eq 'V') { $doi="doi:10.1068/$paperid"; }
     
     $button2="<li><a href=\"index.html\" title=\"View EP homepage\">EP&nbsp;homepage</a></li>" unless ($journal eq 'P' or $journal eq 'V' or $journal eq 'H');
     $button2="<li><a href=\"ECVP.html\" title=\"ECVP abstracts\">ECVP</a></li>" if ($journal eq 'P' or $journal eq 'V');
@@ -416,7 +417,7 @@ if(($ENV{'HTTP_HOST'} ne 'gate.pion.ltd.uk:8732' && $ENV{'HTTP_HOST'} ne 'www.en
     }
     close(IN);
     if ($popular eq $id) {
-      print "<p><div id='popular'><p><b>Most downloaded paper:</b> This paper has received more downloads than any other EP$journal paper over the last 12 months. <br>Click <a href=\"ranking_$lower{$journal}.html\">here</a> to see the full list of the most downloaded papers.</div>"
+ 	     print "<p><div id='popular'><p><b>Most downloaded paper:</b> This paper has received more downloads than any other EP$journal paper over the last 12 months. <br>Click <a href=\"ranking_$lower{$journal}.html\">here</a> to see the full list of the most downloaded papers.</div>"
     } else {
      # print "<p>This paper is $id. The most popular $journal paper is $popular\n"
     }
