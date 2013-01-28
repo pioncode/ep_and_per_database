@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<!-- Add text here to override the default text in content.cgi -->
+<!-- rfc 3/2012 Added this function for forthcoming page -->
+
+<static>
+ <forthcoming>
+  <intro journal="default">
+    <![CDATA[Advance Online Publications are papers that have been accepted and fully prepared for publication but are yet to appear in an issue of the printed journal. The most recently added papers are shown at the top.]]>
+  </intro>
+  <intro journal="C">
+   <![CDATA[<b>The following is a list of papers that have been accepted but not fully prepared for publication:</b>
+
+<p>The gift that keeps on giving: land-grant universities and regional prosperity <font color = "red">(higher education and creative industries theme)</font><br>Stolarick K, Mack E A</p>
+<p>Effective strategy implementation: why partnership interconnectivity matters<br>Holman N</p>
+<p>Understanding the causes of informal and formal discretion in the delivery of enterprise policies: a multiple case study<br>Vega A, Chiasson M, Brown D</p>
+<p>Environmental management systems and the third sector: exploring weak adoption in the UK<br>Edwards R, Smith G, Büchs M</p>
+<p>Local energy systems: evaluating network effectiveness for transformation in British Columbia, Canada <font color = "red">(urban climate governance theme)</font><br>Berkhout T, Westerhoff L</p>
+<p>Mainstreaming climate policy: the case of climate adaptation and the implementation of EU water policy<br>Brouwer S, Rayner T, Huitema D</p>
+<p>Getting access to water: property rights or public policy strategies?<br>Aubin D, Varone F</p>
+<p>What is wrong with virtual water trading? On the limitations of the virtual water concept<br>Gawel E, Bernsen K</p>
+<p>Global environmental governance and North&ndash;South dynamics: the case of CITES<br>Duffy R</p>
+<p>What kind of leadership do we need for climate adaptation? A framework for analyzing leadership functions and tasks in climate change adaptation<br>Meijerink S, Stiller S</p>
+<p>Governance over land development during rapid urbanization under institutional uncertainty: with reference to periurbanization in Guangzhou metropolitan region, China<br>Zhu J</p>
+<p>Understanding the relationship between subnational and national climate change politics in the United States: toward a theory of boomerang federalism <font color = "red">(urban climate governance theme)</font><br>Fisher D R</p>
+<p>Overeducation and externalities in the EU: the combined moderating influence of migration and gender<br>Tselios V</p>
+<p>Analysing urban governance networks: bringing regime theory back in<br>Blanco I</p>
+<p>The hurdles of local governments with PPP contracts in the waste sector<br>da Cruz N F, Sim&otilde;es P, Marques R C</p>
+<p>Living multiculture: understanding the new spatial and social relations of ethnicity and multiculture in England<br>Neal S, Bennett K, Cochrane A</p>
+<p>‘Communities with oomph’? Exploring the potential for stronger social ties to revitalise disadvantaged neighbourhoods<br>Crisp R</p>
+<p>Europeanisation of regional policy making: a Boolean analysis of Norwegian counties’ participation in the EU’s Interreg Programme<br>Fitjar R D, Leknes E, Thygesen J</p>
+<p>The challenges of policy convergence: the Europeanization of biodiversity governance in an enlarging EU<br>Kluvánková-Oravská T, Chobotová V</p>
+<p>Evidence, policy, and the politics of regional development: the case of high speed rail in the United Kingdom<br>Tomaney J, Marques P</p>
+<p>Changing landscapes of support in the lives of Chinese urban elders: voices from Wuhan neighbourhoods<br>Gilroy R</p>
+<p>Reciprocity as deliberative capacity: lessons from a citizens deliberation on carbon pricing mechanisms in Australia<br>Lo A Y, Alexander K S, Proctor W, Ryan A</p>
+<p>Promoting private sector development in China: the challenge of building institutional capacity at the local level <font color = "red">(SME theme)</font><br>Atherton A, Smallbone D</p>
+<p>Fighting the pipe: neoliberal governance and barriers to effective community participation in energy infrastructure planning<br>Groves C, Munday M, Yakovleva N</p>
+<p>TNCs’ technology linkages with domestic firms: an investigation of the ICT industry in Suzhou, China<br>Liao H, Wei Y D</p>
+<p>Local governance on climate mitigation: a comparative study of China and Japan<br>Liu L, Matsuno S, Zhang B, Liu B, Young O</p>
+<p>Driving the agenda for climate change adaptation in Norwegian municipalities<br>Dannevig H, Hovelsrud G K, Husabø I A</p>
+<p>Inclusive development? State-led land development model in New Town, Kolkata<br>Sengupta U</p>
+<p>Trust in the justice administration: is it dependent on the economic cycle and on decentralization?<br>Esteller Moré A</p>
+<p>Trying to measure local wellbeing: indicator development as a site of discursive struggles<br>Scott K, Bell D</p>
+<p>Amsterdam metropolitan challenge: opportunities for inclusive co-production in city-region governance<br>Levelt M, Janssen-Jansen L</p>
+<p>Towards managing nonlinear regional development trajectories<br>Hartman S, de Roo G</p>
+<p>Understanding differences in voter perceptions of campaign agendas: the case of local elections in Denmark<br>Elmelund-Præstekær C, Hopmann D N</p>
+<p>Regulation of resource-based development: governance challenges and responses in mining regions of Australia<br>Everingham J-A, Pattenden C, Klimenko V, Parmenter J</p>
+<p>Overflowing with issues: following the political trajectories of flooding<br>Donaldson A, Lane S, Ward N, Whatmore S</p>
+<p>Reining in the executive? Delegation, evidence, and parliamentary influence on environmental public policy<br>Russel D, Turnpenny J, Rayner T</p>
+<p>An evaluation of public spending: the effectiveness of a government-supported networking program in Flanders <font color = "red">(SME theme)</font><br>Van Cauwenberge P, Bauwhede H V, Schoonjans B</p>
+<p>Social enterprise and ethnic minorities: exploring the consequences of the evolving British policy agenda<br>Sepulveda L, Syrett S, Calvo S</p>
+<p>Pork barrel versus irrelevance effects in Portuguese public spending<br>Mourao P R</p>
+<p>Is public procurement a successful small business support policy? A review of the evidence <font color = "red">(SME theme)</font><br>Loader K</p>
+<p>Environmental responsibility in a transition context: Russian NGO perception and response<br>Crotty J, Hall S M</p>
+<p>Evaluating the impact of different training methods on SME business performance<br>Jones P, Beynon M J, Pickernell D, Packham G</p>
+<p>From ivory tower to living lab: accelerating the use of university knowledge<br>van Geenhuizen M</p>
+<p>How is space public? Implications for spatial policy and democracy<br>Parkinson J R</p>
+<p>Dumping ground or country-in-transition? Discourses of e-waste in South Africa<br>Lawhon M</p>
+<p>Sustainability-related media coverage and socioeconomic development: a regional and North&ndash;South perspective<br>Barkemeyer R, Figge F, Holt D</p>
+<p>A smarter choice? Exploring the behaviour change agenda for environmentally sustainable mobility<br>Barr S, Prillwitz J</p>
+<p>Adaptation to climate change in the private and the third sector: case study of governance of the Helsinki Metropolitan region<br>Juhola S</p>
+<p>Evaluating collaborative institutions in context: the case of regional water management in Southern California<br>Hughes S, Pincetl S</p>
+<p>Networked urban climate governance: neighborhood-scale residential solar energy systems and the example of Solarize Portland <font color = "red">(urban climate governance theme)</font><br>Aylett A</p>
+<p>Introducing gender in a policy programme: a multilevel analysis of an innovation policy programme<br>Kvidal T, Ljunggren E</p>
+<p>The geographies of policy translation: how nudge became the default policy option<br>Jones R, Pykett J, Whitehead M</p>
+<p>Whither justice? An analysis of local climate change responses from South East Queensland, Australia<br>MacCallum D, Byrne J, Steele W</p>
+<p>Evidence, uncertainty, and wicked problems in climate change decision making in Australia <font color = "red">(scenarios theme)</font><br>Head B</p>
+<p>Policy transformations and translations: lessons for sustainable water management in periurban Delhi, India<br>Randhawa P, Marshall F</p>
+<p>Novel multisector networks and entrepreneurship: the role of small businesses in the multilevel governance of climate change <font color = "red">(urban climate governance theme)</font><br>Burch S, Schroeder H, Rayner S, Wilson J</p>
+<p>Lisbonizing versus financializing Europe: the Lisbon Agenda and the (un)making of the European knowledge-based economy<br>Birch K, Mykhnenko V</p>
+<p>Delivering local plans; recognising the bounded interests of local planners within spatial planning<br>Mace A</p>
+<p>State rescaling and the making of city-regions in Pearl River Delta, China<br>Li Z, Xu J, Yeh A G O</p>
+<p>How regional inequality affects fiscal decentralisation: accounting for subcentral governments' autonomy<br>Sacchi A, Salotti S</p>
+<p>Entrepreneurial academics and regional innovation systems: the case of spin-offs from London’s universities<br>Lawton Smith H, Chapman D, Wood P, Barnes T, Romeo S</p>
+<p>What type of knowledge rules where? Legally regulated participation in a large-scale mobile infrastructure planning in Sweden<br>Larsson S</p>
+<p>Transition management using a market transformation approach: lessons for theory, research, and practice from the case of low-carbon housing refurbishment in the UK <font color = "red">(urban climate governance theme)</font><br>Killip G</p>
+<p>Institutional change and regional development in China: the case of commodity trading markets<br>Wang J, Gooderham P</p>
+<p>Soft space, hard bargaining: planning for high-tech growth in ‘Science Vale UK’ <font color = "red">(science in the city theme)</font><br>Phelps N, Valler D, Radford J</p>
+<p>Coinquiry for environmental sustainability: a review of the UK Beacons for public engagement<br>Genus A</p>
+<p>Putting carbon markets into practice: a case study of financial accounting in Europe<br>Lovell H, Bebbington J, Larrinaga C, Sales de Aguiar T R</p>
+<p>Collaborative governance for technological innovation: a comparative case study of wind energy in Xinjiang, Shanghai, and Guangdong<br>Ngar-yin Mah D, Hills P</p>
+<p>The future of science governance: publics, policies, practices<br>Macnaghten P, Chilvers J</p>
+<p>Hybridity of representation: insights from river basin management planning in Scotland<br>Blackstock K, Waylen K, Duglinson J, Marshall K</p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<br>
+<br>
+<br>
+
+
+    ]]>
+  </intro>
+ </forthcoming>
+</static>
+

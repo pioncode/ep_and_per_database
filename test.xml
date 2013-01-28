@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_batch version="3.0.3" xmlns="http://www.crossref.org/schema/3.0.3"       
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crossref.org/schema/3.0.3 http://www.crossref.org/schema/3.0.3/crossref3.0.3.xsd">
+  <head>
+    <doi_batch_id>10254</doi_batch_id>
+      <timestamp>20060922131919</timestamp>
+      <depositor>
+        <name>Pion Ltd</name>
+        <email_address>jon@pion.co.uk</email_address>
+      </depositor>
+      <registrant>Pion Ltd</registrant>
+  </head>
+  <body>
+
+  <journal>
+    <journal_metadata language="en">
+    <full_title>Environment and Planning C: Government and Policy</full_title>
+      <abbrev_title>Environ. Plann. C</abbrev_title>
+      <issn media_type="print">0263-774X</issn>
+      <issn media_type="electronic">1472-3425</issn>
+    </journal_metadata>
+    <journal_issue>
+      <publication_date media_type="print">
+        <year>2005</year>
+      </publication_date>
+      <journal_volume>
+        <volume>23</volume>
+      </journal_volume>
+      <issue>1</issue>
+    </journal_issue>
+  <journal_article publication_type="abstract_only">
+    <titles>
+       <title>New developments in the journal</title>
+    </titles>
+    <contributors>
+       <person_name sequence="first" contributor_role="author">
+         <given_name>R J</given_name>
+         <surname>Bennett</surname>
+       </person_name>
+
+    </contributors>
+    <publication_date media_type="print">
+       <year>2005</year>
+    </publication_date>
+    <pages>
+       <first_page>1</first_page>
+       <last_page>2</last_page>    
+    </pages>
+    <publisher_item>
+       <identifier id_type="pii">c2301ed</identifier>
+    </publisher_item>
+    <doi_data>
+       <doi>10.1068/c2301ed</doi>
+       <resource>http://www.envplan.com/db/abstract.cgi?paperid=c2301ed</resource>
+    </doi_data>
+  </journal_article>
+  <journal_article publication_type="full_text">
+    <titles>
+       <title>Fiscal decentralisation, the size of the public sector, and economic growth in Turkey</title>
+    </titles>
+    <contributors>
+       <person_name sequence="first" contributor_role="author">
+         <given_name>Isa</given_name>
+         <surname>Sagbas</surname>
+       </person_name>
+       <person_name sequence="additional" contributor_role="author">
+         <given_name>Huseyin</given_name>
+         <surname>Sen</surname>
+       </person_name>
+       <person_name sequence="additional" contributor_role="author">
+         <given_name>Muhsin</given_name>
+         <surname>Kar</surname>
+       </person_name>
+
+    </contributors>
+    <publication_date media_type="print">
+       <year>2005</year>
+    </publication_date>
+    <pages>
+       <first_page>3</first_page>
+       <last_page>19</last_page>    
+    </pages>
+    <publisher_item>
+       <identifier id_type="pii">c0421</identifier>
+    </publisher_item>
+    <doi_data>
+       <doi>10.1068/c0421</doi>
+       <resource>http://www.envplan.com/db/abstract.cgi?paperid=c0421</resource>
+    </doi_data>
+  </journal_article>
+  <journal_article publication_type="full_text">
+    <titles>
+       <title>Individual determinants of participation in community development in Indonesia</title>
+    </titles>
+    <contributors>
+       <person_name sequence="first" contributor_role="author">
+         <given_name>Victoria A</given_name>
+         <surname>Beard</surname>
+       </person_name>
+
+    </contributors>
+    <publication_date media_type="print">
+       <year>2005</year>
+    </publication_date>
+    <pages>
+       <first_page>21</first_page>
+       <last_page>39</last_page>    
+    </pages>
+    <publisher_item>
+       <identifier id_type="pii">c36m</identifier>
+    </publisher_item>
+    <doi_data>
+       <doi>10.1068/c36m</doi>
+       <resource>http://www.envplan.com/db/abstract.cgi?paperid=c36m</resource>
+    </doi_data>
+  </journal_article>
+  <journal_article publication_type="full_text">
+    <titles>
+       <title>Multiple visioning: new ways of constructing transnational spatial visions</title>
+    </titles>
+    <contributors>
+       <person_name sequence="first" contributor_role="author">
+         <given_name>Wil</given_name>
+         <surname>Zonneveld</surname>
+       </person_name>
+
+    </contributors>
+    <publication_date media_type="print">
+       <year>2005</year>
+    </publication_date>
+    <pages>
+       <first_page>41</first_page>
+       <last_page>62</last_page>    
+    </pages>
+    <publisher_item>
+       <identifier id_type="pii">c37m</identifier>
+    </publisher_item>
+    <doi_data>
+       <doi>10.1068/c37m</doi>
+       <resource>http://www.envplan.com/db/abstract.cgi?paperid=c37m</resource>
+    </doi_data>
+  </journal_article>
+  <journal_article publication_type="full_text">
+    <titles>
+       <title>Devolution -- the Northern Ireland way: an exercise in 'creative ambiguity'</title>
+    </titles>
+    <contributors>
+       <person_name sequence="first" contributor_role="author">
+         <given_name>Colin</given_name>
+         <surname>Knox</surname>
+       </person_name>
+       <person_name sequence="additional" contributor_role="author">
+         <given_name>Paul</given_name>
+         <surname>Carmichael</surname>
+       </person_name>
+
+    </contributors>
+    <publication_date media_type="print">
+       <year>2005</year>
+    </publication_date>
+    <pages>
+       <first_page>63</first_page>
+       <last_page>83</last_page>    
+    </pages>
+    <publisher_item>
+       <identifier id_type="pii">c0429</identifier>
+    </publisher_item>
+    <doi_data>
+       <doi>10.1068/c0429</doi>
+       <resource>http://www.envplan.com/db/abstract.cgi?paperid=c0429</resource>
+    </doi_data>
+  </journal_article>
+  <journal_article publication_type="full_text">
+    <titles>
+       <title>Equalisation of municipal input costs in England: matters of principle and practice</title>
+    </titles>
+    <contributors>
+       <person_name sequence="first" contributor_role="author">
+         <given_name>Stephen J</given_name>
+         <surname>Bailey</surname>
+       </person_name>
+
+    </contributors>
+    <publication_date media_type="print">
+       <year>2005</year>
+    </publication_date>
+    <pages>
+       <first_page>85</first_page>
+       <last_page>100</last_page>    
+    </pages>
+    <publisher_item>
+       <identifier id_type="pii">c0431</identifier>
+    </publisher_item>
+    <doi_data>
+       <doi>10.1068/c0431</doi>
+       <resource>http://www.envplan.com/db/abstract.cgi?paperid=c0431</resource>
+    </doi_data>
+  </journal_article>
+  <journal_article publication_type="full_text">
+    <titles>
+       <title>Future shapers: children, young people, and planning in New Zealand local government</title>
+    </titles>
+    <contributors>
+       <person_name sequence="first" contributor_role="author">
+         <given_name>Mark W</given_name>
+         <surname>Skinner</surname>
+       </person_name>
+       <person_name sequence="additional" contributor_role="author">
+         <given_name>Mark W</given_name>
+         <surname>Rosenberg</surname>
+       </person_name>
+
+    </contributors>
+    <publication_date media_type="print">
+       <year>2005</year>
+    </publication_date>
+    <pages>
+       <first_page>101</first_page>
+       <last_page>121</last_page>    
+    </pages>
+    <publisher_item>
+       <identifier id_type="pii">c0434</identifier>
+    </publisher_item>
+    <doi_data>
+       <doi>10.1068/c0434</doi>
+       <resource>http://www.envplan.com/db/abstract.cgi?paperid=c0434</resource>
+    </doi_data>
+  </journal_article>
+  <journal_article publication_type="full_text">
+    <titles>
+       <title>A regional perspective on the impact of the privatisation of the UK public industrial property stock</title>
+    </titles>
+    <contributors>
+       <person_name sequence="first" contributor_role="author">
+         <given_name>Colin</given_name>
+         <surname>Jones</surname>
+       </person_name>
+
+    </contributors>
+    <publication_date media_type="print">
+       <year>2005</year>
+    </publication_date>
+    <pages>
+       <first_page>123</first_page>
+       <last_page>139</last_page>    
+    </pages>
+    <publisher_item>
+       <identifier id_type="pii">c0417</identifier>
+    </publisher_item>
+    <doi_data>
+       <doi>10.1068/c0417</doi>
+       <resource>http://www.envplan.com/db/abstract.cgi?paperid=c0417</resource>
+    </doi_data>
+  </journal_article>
+  <journal_article publication_type="full_text">
+    <titles>
+       <title>On the regulatory choice of refunding rules to reconcile the 'polluter pays principle' and Pigovian taxation: an application</title>
+    </titles>
+    <contributors>
+       <person_name sequence="first" contributor_role="author">
+         <given_name>Athanasios</given_name>
+         <surname>Kampas</surname>
+       </person_name>
+       <person_name sequence="additional" contributor_role="author">
+         <given_name>Laurent</given_name>
+         <surname>Franckx</surname>
+       </person_name>
+
+    </contributors>
+    <publication_date media_type="print">
+       <year>2005</year>
+    </publication_date>
+    <pages>
+       <first_page>141</first_page>
+       <last_page>152</last_page>    
+    </pages>
+    <publisher_item>
+       <identifier id_type="pii">c04101s</identifier>
+    </publisher_item>
+    <doi_data>
+       <doi>10.1068/c04101s</doi>
+       <resource>http://www.envplan.com/db/abstract.cgi?paperid=c04101s</resource>
+    </doi_data>
+  </journal_article>
+
+  </journal>
+
+ </body>
+
+</doi_batch>

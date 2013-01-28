@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_batch version="3.0.3" xmlns="http://www.crossref.org/schema/3.0.3"       
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crossref.org/schema/3.0.3 http://www.crossref.org/schema/3.0.3/crossref3.0.3.xsd">
+  <head>
+    <doi_batch_id>52766</doi_batch_id>
+      <timestamp>20061013110115</timestamp>
+      <depositor>
+        <name>Pion Ltd</name>
+        <email_address>jon@pion.co.uk</email_address>
+      </depositor>
+      <registrant>Pion Ltd</registrant>
+  </head>
+  <body>
+
+  </journal>
+
+ </body>
+
+</doi_batch>
