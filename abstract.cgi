@@ -279,7 +279,7 @@ END
 # confound incorrect links from Google Scholar
 # TODO:  enable redirection
 #($ENV{'HTTP_HOST'} ne 'www.perceptionweb.com' && $ENV{'HTTP_HOST'} ne 'perceptionweb.com' && $ENV{'HTTP_HOST'} ne 'perceptionweb.co.uk' && $ENV{'HTTP_HOST'} ne 'proton4') && $journal eq 'P'
-if(($ENV{'HTTP_HOST'} !~ /perceptionweb/ && $ENV{'HTTP_HOST'} ne 'proton5') && $journal eq 'P'){
+if(($ENV{'HTTP_HOST'} !~ /perceptionweb/ && $ENV{'HTTP_HOST'} ne 'proton5'&& $ENV{'HTTP_HOST'} ne 'gate.pion.ltd.uk:8732') && $journal eq 'P'){
   print p, "Incorrect url<p><a href='http://www.perceptionweb.com/abstract.cgi?id=$paperid'>Please click here.</a>\n", end_html;
   exit;
 }
