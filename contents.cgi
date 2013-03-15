@@ -199,7 +199,7 @@ if ($journal eq 'P'){
 } elsif ($journal eq 'D'){
   $banner="<img src=\"Images/$gif\" alt=\"$jname{$journal}\" border=0 class=\"logo\">";
   $button1="<a href=\"$journal.html\" title=\"View $j_name homepage\">EP$journal&nbsp;homepage</a>";
-  $button2="<a href=\"http://societyandspace.wordpress.com/\" title=\"EPD Blog\">EP$journal&nbsp;blog</a>";
+  $button2="<a href=\"http://societyandspace.wordpress.com/\" title=\"Society and Space Open Site\">Society and Space Open Site</a>";
   $button3="<a href=\"index.html\" title=\"View EP homepage\">EP&nbsp;homepage</a>";
   $example='Example: (town or urban) planning';
 } else {
@@ -404,8 +404,9 @@ $refFlag=0;
 while (@result=$sth->fetchrow()){
   if($virt eq 'list'){
   ($vir_theme_id,$vir_title,$vir_artist_name,$vir_guesteds)=@result;
-  print "<a href=\'contents.cgi?journal=".$journal."&volume=virtual&virt=".$vir_theme_id." \'><p>".$vir_title."</p></a>";
-   if ($vir_guesteds){print "<p><small>With guest editors: ".$vir_guesteds."</small></p>";}
+  print "<a href=\'contents.cgi?journal=".$journal."&volume=virtual&virt=".$vir_theme_id." \'><p>".$vir_title;
+   if ($vir_guesteds){print "<span><small>&nbsp;&nbsp;With guest editors: ".$vir_guesteds."</small></span>";}
+  print "</p></a>";
   #Done for a virtual issue so return to get next entry
   next;
   }
